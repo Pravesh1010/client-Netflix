@@ -4,12 +4,12 @@ import Register from './components/navbar/pages/watch/register/Register';
 import Watch from './components/navbar/pages/watch/Watch';
 import Home from './Home/Home';
 
-function App() {
+function App() { 
   return (
     <div className="App">
-      {/* <Home /> */}
-      {/* <Watch /> */}
-      {/* <Register /> */}
+      <Home />
+      <Watch />
+      <Register />
       <Login />
     </div>
   );
