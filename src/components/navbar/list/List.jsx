@@ -5,7 +5,7 @@ function List() {
   const listref = useRef();
 
   const [slideNumber, setSlideNumber] = useState(0);
-
+ 
   const [isMoved, setIsMoved] = useState(false);
   const handleClick = (direction) => {
     setIsMoved(true);

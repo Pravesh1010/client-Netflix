@@ -11,7 +11,7 @@ export default function Login() {
             alt=""
             className="logo"
           />
-        </div>
+        </div> 
       </div>
       <div className="container">
         <form>

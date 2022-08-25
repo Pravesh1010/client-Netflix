@@ -18,7 +18,7 @@ const Navbar = () => {
           <img
             src="https://variety.com/wp-content/uploads/2020/05/netflix-logo.png"
             alt=""
-          ></img>
+          ></img> 
           <span>Homepage</span>
           <span>Series</span>
           <span>Movies</span>

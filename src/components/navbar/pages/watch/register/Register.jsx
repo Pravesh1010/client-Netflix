@@ -12,7 +12,7 @@ export default function Register() {
   const handleStart = () => {
     setEmail(emailRef.current.value);
   };
-  const handleFinish = () => {
+  const handleFinish = () => { 
     setPassword(passwordRef.current.value);
   };
 

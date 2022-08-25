@@ -11,11 +11,8 @@ function Home() {
       <Featured/>
       <List />
       <List />
-      <List />
-      <List />
-      <List />
     </div>
-  );
+  ); 
 }
 
 export default Home;

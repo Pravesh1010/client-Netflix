@@ -6,14 +6,14 @@ import Home from './Home/Home';
  
 function App() { 
   return (
-    <div className="App">
+    <div className="App"> 
       <Home />
       <Watch />
-      <Register />
+      <Register /> 
       <Login />
     </div>
   );
 }
-
+ 
 
 export default App;
